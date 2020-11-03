@@ -1,0 +1,90 @@
+body{
+  background-image: url('https://image.freepik.com/free-photo/wooden-planks-background_1220-1913.jpg');
+  background-size: cover;
+}
+
+/* main container */
+.container{
+  width: 800px;
+  height: 900px;
+  margin: auto;
+}
+
+/* starts top header */
+.top-header{
+  height:70px;
+  border-bottom: 1px solid white;
+}
+
+/* starts bottom header */
+.bottom-header{
+  height: 90px;
+  border-bottom: 1px solid white;
+}
+
+h1{
+  color: white;
+}
+
+#gmail-logo{
+  height: 70px;
+  vertical-align: middle;
+}
+
+#distance-from-above-border-bottom{
+  margin-top: 5px;
+}
+
+#beside-gmail-logo{
+  color: white;
+  font-size: 20px;
+}
+.unread{
+  background-color: orange;
+  color: white;
+  padding: 8px;
+  border-radius: 60%;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+#inbox{
+  margin-top: 7px;
+}
+.email{
+  background-color: lightgrey;
+  padding: 3px 0px;
+  border: 2px solid black;
+}
+
+.cental-alignment{
+  vertical-align: middle;
+}
+
+hr{
+  border: 1px solid white;
+}
+
+/* emails read */
+#have-been-read{
+  background-color: white;
+}
+
+p{
+  display: inline;
+}
+
+#who-powers-the-website{
+  color: white;
+  text-align: center;
+}
+
+.footer-sentence{
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
+.emails-colour{
+  color: grey;
+}
